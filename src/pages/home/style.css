@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ebecf1;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+    margin-top: 30px;
+    text-align: center;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tost {
+    border-radius: 10px;
+    padding: 10px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 2;
+    background-color: white;
+}
